@@ -1,6 +1,6 @@
 ## Welcome to KazCompanies page
 
- App neef user information to work better with him
+ App need user information to work better with him
 
 ### Markdown
 
